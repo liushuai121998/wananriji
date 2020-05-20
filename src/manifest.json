@@ -1,8 +1,8 @@
 {
-  "package": "com.wananriji.package",
+  "package": "com.saywanan.package",
   "name": "晚安日记",
-  "versionName": "1.0.1",
-  "versionCode": "1",
+  "versionName": "1.0.3",
+  "versionCode": "3",
   "minPlatformVersion": "1060",
   "icon": "/Common/logo.png",
   "features": [
